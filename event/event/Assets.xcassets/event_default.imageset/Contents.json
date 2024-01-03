@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "fmichetti_event_image_--v_5.2_070ec867-4de5-4dcc-9251-bd4f636d7b99.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
